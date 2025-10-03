@@ -3,5 +3,6 @@ ism = input("ismingizni kiriting: ").lower()
 sharif = input("sharifingizni kiriting: ").lower()
 
 
-print(f" {familya} {ism} {sharif}")
+print(f"F.I.SH {familya} {ism} {sharif}")
+
 
